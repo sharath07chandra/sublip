@@ -1,0 +1,1 @@
+python predict.py models\weights04.h5 samples\id2_vcd_swwp2s.mpg
